@@ -26,8 +26,8 @@ const skills = {
 ✔️ Contributing to open-source QA projects  
 
 📬 **Connect With Me**  
-🔗 LinkedIn: [Your LinkedIn]  
-📧 Email: [Your Email]  
-🌍 Portfolio: [Your Website]  
+🔗 LinkedIn:   
+📧 Email:  
+🌍 Portfolio:  
 
 Passionate about breaking software before users do! 🚀
